@@ -33,7 +33,7 @@ p {
 
 	height: 50px;
 	width: 35px;
-	font-size: 15px;
+	font-size: 16px;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
@@ -41,7 +41,7 @@ p {
 
 	height: 50px;
 	width: 110px;
-	font-size: 15px;
+	font-size: 16px;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
@@ -49,15 +49,15 @@ p {
 
 	height: 50px;
 	width: 450px;
-	font-size: 12px;
+	font-size: 16px;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
-.index_oder_block {
+.inline_oder_block {
 
 	height: 50px;
 	width: 100px;
-	font-size: 15px;
+	font-size: 16px;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 

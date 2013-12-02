@@ -1,0 +1,79 @@
+#main {
+
+	background: #F5F3D5;
+	margin: 0;
+}
+
+h1 {
+
+	font-size: 25px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+p {
+
+	margin: 20px;
+}
+#th {
+
+	background-color: #FABF70;
+}
+
+.ungerade {
+
+	background-color: #E3E3A6;
+}
+
+.gerade {
+
+	background-color: #F0F0C5;
+}
+
+.nr {
+
+	height: 50px;
+	width: 35px;
+	font-size: 15px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.element {
+
+	height: 50px;
+	width: 110px;
+	font-size: 15px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.elementbeschreibung {
+
+	height: 50px;
+	width: 450px;
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.index_oder_block {
+
+	height: 50px;
+	width: 100px;
+	font-size: 15px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.semantic {
+
+	height: 50px;
+	width: 35px;
+	background-color: #0BBF35;
+	color: white;
+}
+
+.not_semantic {
+
+	height: 50px;
+	width: 40px;
+	background-color: #F70000;
+	color: white;
+}
+
